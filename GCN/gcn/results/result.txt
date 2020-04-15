@@ -1,0 +1,66 @@
+DDT
+learning rate: 0.01	epochs: 200
+dataset: DDT	model gcn_ae
+2020-03-25 20:57:37
+Test ROC score:0.4435	Test AP score: 0.4979
+
+DDT
+learning rate: 0.01	epochs: 200
+dataset: DDT	model gcn_ae
+2020-03-25 21:03:00
+Test ROC score:0.4333	Test AP score: 0.4949
+
+DT
+learning rate: 0.01	epochs: 200
+dataset: DT	model gcn_ae
+2020-03-26 09:36:38
+Test ROC score:0.914	Test AP score: 0.9473
+
+DT
+learning rate: 0.01	epochs: 500
+dataset: DT	model gcn_ae
+2020-03-26 10:54:17
+Test ROC score:0.9155	Test AP score: 0.9203
+
+DT
+learning rate: 0.01	epochs: 500
+dataset: DT	model gcn_ae
+2020-03-26 12:09:07
+Test ROC score:0.9173	Test AP score: 0.9092
+
+DT
+learning rate: 0.01	epochs: 200
+dataset: DT	model gcn_vae
+2020-03-31 19:27:06
+Test ROC score:0.9425	Test AP score: 0.9525
+
+DT
+learning rate: 0.01	epochs: 200
+hidden1: 200    hidden2: 50  dataset: DT	model gcn_vae
+2020-03-31 20:45:18
+Test ROC score:0.9596	Test AP score: 0.9694
+
+DT
+learning rate: 0.01	epochs: 200
+hidden1: 200    hidden2: 50 dataset: DT	model gcn_vae
+2020-03-31 22:19:09
+Test ROC score:0.8803	Test AP score: 0.8116
+
+DT
+learning rate: 0.01	epochs: 200
+hidden1: 200    hidden2: 50dataset: DT	model gcn_vae
+2020-04-05 11:17:07
+Test ROC score:0.9635	Test AP score: 0.9683
+
+DT
+learning rate: 0.01	epochs: 500
+hidden1: 200    hidden2: 50dataset: DT	model gcn_vae
+2020-04-09 18:12:14
+Test ROC score:0.9544	Test AP score: 0.9607
+
+DT
+learning rate: 0.01	epochs: 500
+hidden1: 200    hidden2: 50dataset: DT	model gcn_vae
+2020-04-09 18:35:07
+Test ROC score:0.957	Test AP score: 0.9664
+

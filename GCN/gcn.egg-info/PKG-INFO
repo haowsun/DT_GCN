@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: gae
+Name: gcn
 Version: 0.0.1
 Summary: Implementation of (Variational) Graph Auto-Encoders in Tensorflow
 Home-page: https://tkipf.github.io
